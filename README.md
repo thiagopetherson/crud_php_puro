@@ -1,5 +1,5 @@
 # crud_php_puro
-CRUD básico feito somente com PHP
+CRUD básico feito somente com PHP (Todo comentado para facilitar a implementação)
 
 - CRUD bem básico feito com PHP Puro. 
 - Já havia disponibilizado outro aqui no meu repositório, porém utilizo jQuery e(JS) e Bootstrap. 
